@@ -4,9 +4,15 @@ use std::rc::Rc;
 
 
 pub fn main(){
+    println!("\n\nGraph Tests:");
+
+    println!("\ntest1:");
     test1();
+    println!("\ntest2:");
     test2();
+    println!("\ntest3:");
     test3();
+    println!("\ntest4:");
     test4();
 }
 
